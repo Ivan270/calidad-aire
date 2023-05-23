@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+    background: #054B69;
+    background: linear-gradient(315deg, #054B69, #1C9DFF);
+}
+
+nav div span {
+    letter-spacing: 10px;
+    font-size: 12px !important;
+}
+
+input::placeholder {
+    color: rgb(218, 218, 218) !important;
+}
